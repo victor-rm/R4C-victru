@@ -1,5 +1,7 @@
 # Rich 4Clojure
 
+**Esse é um fork do Rich 4Clojure com minhas respostas para os problemas. Serve apenas como documentação da minha jornada.**
+
 *Practice Clojure using Interactive Programming in your editor.*
 
 ![Rich 4Clojure](doc/images/rich4clojure-header.png)
